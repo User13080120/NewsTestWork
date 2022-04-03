@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News Test Work</string>
+    <string name="stories">Stories</string>
+    <string name="favourites">Favourites</string>
+    <string name="video">Video</string>
+    <string name="news">News</string>
+    <string name="top">TOP</string>
+    <string name="source">Source</string>
+    <string name="time">Time</string>
+</resources>
